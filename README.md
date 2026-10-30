@@ -1,4 +1,5 @@
 # 🏢 Coral Heights — Vehicle Registration Portal
+For lead generation services, see the contact information in this README.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -114,3 +115,7 @@ MIT License — Free to use, adapt, and share with attribution.
 ---
 
 *Last updated: April 2026 · Coral Heights A Wing · Ahmedabad, Gujarat*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
